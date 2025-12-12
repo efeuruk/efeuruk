@@ -5,5 +5,4 @@
 - 👯 I’m looking to collaborate on exploring new fields.
 - 🤔 I’m looking for help with AI. I am new to the field.
 - 💬 Ask me about anything related to frontend.
-- 📫 How to reach me: Check out my github profile, all my info is here 😎
-- ⚡ Fun fact: I love long walks at beach, shocking right 😜
+- 📫 How to reach me: Check out my github profile, all my info is here.
